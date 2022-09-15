@@ -1,6 +1,6 @@
 # WAN
 
-![WAN 설명](attachments/2022-09-15-17-10-22.png)
+![WAN 설명](../attachments/2022-09-15-17-10-22.png)
 
 Wide Area Network.
 

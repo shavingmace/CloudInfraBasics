@@ -1,6 +1,6 @@
 # LAN과 WAN
 
-![LAN, MAN, WAN의 구분 문제](attachments/2022-09-15-17-07-47.png)
+![LAN, MAN, WAN의 구분 문제](../attachments/2022-09-15-17-07-47.png)
 
 예전에는 [[LAN]], MAN, [[WAN]]의 구분을 프로토콜이나 전송 기술 같은 기술 인프라에 따라 정했다.
 
