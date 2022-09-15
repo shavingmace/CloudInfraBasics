@@ -1,12 +1,13 @@
 # CloudInfraBasics
 
 CCCR MLOps 과정에서 배운 지식을 VisualS Studio Code의 확장 중 하나인 [foam](https://foambubble.github.io/foam/)에서 제공하는 위키 형태로 기록하는 문서입니다. 
-# 
+
+ 
 
 ## 문서 네트워크 시각화
 ![220915_2](./attachments/2022-09-15-18-04-16.png)
 
-# 
+
 
 ## 추천 문서
 - [[OSI 7계층]]
