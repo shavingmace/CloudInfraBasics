@@ -1,5 +1,6 @@
 # Typora
 
+#팁
 
 Typora 설치 
 

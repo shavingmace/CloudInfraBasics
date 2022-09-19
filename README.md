@@ -6,7 +6,7 @@
 ### contact: pskyd0151@gmail.com
 
 ## 문서 네트워크 시각화
-![220916](./attachments/2022-09-16-17-07-20.png)
+![타이틀 이미지](./attachments/2022-09-19-13-17-32.png)
 
 ## 추천 문서
 - [[OSI 7계층]]
