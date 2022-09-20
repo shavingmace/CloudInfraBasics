@@ -1,4 +1,6 @@
 # Typora
+
+#팁
 Typora 설치 
 
 필기용 앱? 
