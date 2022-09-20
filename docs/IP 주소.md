@@ -18,7 +18,7 @@ IP 주소는 [[공인 IP 주소]]와 [[사설 IP 주소]]가 있다.
 [IP]: IP.md "IP"
 [L3-네트워크]: L3-네트워크.md "L3-네트워크"
 [MAC 주소]: <MAC 주소.md> "MAC 주소"
-[TCP-IP]: TCP-IP.md "TCP-IP"
+[TCP-IP]: TCP-IP.md "TCP/IP"
 [공인 IP 주소]: <공인 IP 주소.md> "공인 IP 주소"
 [IPv4]: IPv4.md "IPv4"
 [클래스풀 주소 체계와 클래스리스 주소 체계]: <클래스풀 주소 체계와 클래스리스 주소 체계.md> "클래스풀 주소 체계와 클래스리스 주소 체계"
