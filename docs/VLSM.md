@@ -1,4 +1,4 @@
-# VLSM
+# VLSM, Variable Length Subnet Mask
 
 Variable Length Subnet Mask. 
 
