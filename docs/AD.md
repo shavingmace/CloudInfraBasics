@@ -1,4 +1,4 @@
-# AD, Administrative Distance
+# AD(Administrative Distance)
 
 관리 거리를 의미한다. 특정 [[동적 라우팅 프로토콜]]의 신뢰도를 측정한 값. 여러 개의 라우팅 프로토콜을 사용해 목적지로 가능 경로가 여럿일 때 최적 경로를선택하는 기준. 
 
