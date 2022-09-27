@@ -10,7 +10,7 @@ ix= ['- [['+name[:-3]+']]\n' for name in file_list]
 
 print(ix)
     
-with open('./PyScripts/result.txt', 'w') as file:
+with open('./PyScripts/entire_docs.txt', 'w') as file:
     file.writelines(ix)
 file.close()
 
