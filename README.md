@@ -1,6 +1,6 @@
 # [CloudInfraBasics](https://shavingmace.github.io/CloudInfraBasics/)
 
-![타이틀 이미지](./attachments/2022-09-26-18-20-04.png)
+![타이틀 이미지](./attachments/2022-09-27-16-37-43.png)
  
 주로 클라우드 인프라 엔지니어링과 관련한 지식을 VisualS Studio Code의 확장 중 하나인 [foam](https://foambubble.github.io/foam/)에서 제공하는 위키 형태로 기록하는 문서입니다. 
 
